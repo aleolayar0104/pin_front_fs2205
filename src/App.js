@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar/Navbar";
 function App() {
   return (
     <div className="App">
-      {/* Subiendo al git */}
+      {/* Subiendo al railway */}
       <Navbar />
     </div>
   );
