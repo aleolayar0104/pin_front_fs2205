@@ -31,7 +31,7 @@ function SendMessage() {
         event.preventDefault();
 
         axios
-            .post("https://pinbackfullstack-production.up.railway.app/api/register-client", newtext)
+            .post("https://pinbackfs2205-production.up.railway.app/api/register-client", newtext)
 
             .then((response) => {
 
